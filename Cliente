@@ -7,8 +7,7 @@ public class Cliente {
     /**
      * Construtor da classe Cliente.
      * @param nome Nome do cliente.
-     * @param idade Idade do cliente.
-     */
+    */
     public Cliente(String nome) {
         this.nome = nome;
      }
